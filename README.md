@@ -7,7 +7,7 @@ A bookmarklet is a bookmark stored in a web browser that contains JavaScript com
 
 
 
-# How to use a bookmarklet
+# How to use a bookmarklet.
 
 An "installation" of a bookmarklet is performed by creating a new bookmark, and pasting the code into the URL destination field. Alternatively, if the bookmarklet is presented as a link, under some browsers it can be dragged and dropped onto the bookmark bar. The bookmarklet can then be run by loading the bookmark normally.
 
