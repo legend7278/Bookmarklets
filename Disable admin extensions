@@ -1,1 +1,0 @@
-javascript:(function(){document.head.appendChild(document.createElement('script')).src='https://cdn.jsdelivr.net/gh/thegreatestgiant/ingot-2.0@main/ingot2.0.js'})()
