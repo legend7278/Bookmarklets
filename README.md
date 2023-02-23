@@ -27,8 +27,15 @@ Hi guys, I havent't updated this repository since 2022 and you guys have probabl
 
 # Changelog
 _________________________________________________________________________________________________________
-2/22/23: 
+2/22/23: Added new cheats
 1. Added an I-ready hack menu
 2. Added a Prodigy hack menu 
 3. Updated the Blooket cheat menu since it was outdated
 _________________________________________________________________________________________________________
+2/23/23: Added a bunch of games
+1. Added coin clicker
+2. Added Dodgy Square
+3. Added Jumpy Square
+4. Added Asteroids 
+5. Added Ping Pong
+6. Added Breakout
