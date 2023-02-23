@@ -26,5 +26,9 @@ Hi guys, I havent't updated this repository since 2022 and you guys have probabl
 
 
 # Changelog
-
-2/22/23: Added an I-ready hack menu, a Prodigy hack menu, and updated the Blooket cheats since they were outdated.
+_________________________________________________________________________________________________________
+2/22/23: 
+Added an I-ready hack menu.
+Added a Prodigy hack menu. 
+Updated the Blooket cheat menu since it was outdated.
+_________________________________________________________________________________________________________
