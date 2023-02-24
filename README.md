@@ -32,11 +32,12 @@ ________________________________________________________________________________
 2. Added a Prodigy hack menu 
 3. Updated the Blooket cheat menu since it was outdated
 _________________________________________________________________________________________________________
-2/23/23: Added a bunch of games
+2/23/23: Added a bunch of games and updated a cheat.
 1. Added coin clicker
 2. Added Dodgy Square
 3. Added Jumpy Square
 4. Added Asteroids 
 5. Added Ping Pong
 6. Added Breakout
+7. Updated the Edpuzzle answers hack to the latest version
 _________________________________________________________________________________________________________
