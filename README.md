@@ -36,7 +36,7 @@ ________________________________________________________________________________
 1. Added coin clicker
 2. Added Dodgy Square
 3. Added Jumpy Square
-4. Added Asteroids 
+4. Added Spaceship 
 5. Added Ping Pong
 6. Added Breakout
 7. Updated the Edpuzzle answers hack to the latest version
