@@ -41,3 +41,6 @@ ________________________________________________________________________________
 6. Added Breakout
 7. Updated the Edpuzzle answers hack to the latest version
 _________________________________________________________________________________________________________
+3/3/23
+1. Added hack that was missing
+2. Changed i-Ready menu creator name from proxyplu to sysplu
