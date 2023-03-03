@@ -22,7 +22,7 @@ An "installation" of a bookmarklet is performed by creating a new bookmark, and 
 
 # 2023 update and where I've been
 
-Hi guys, I havent't updated this repository since 2022 and you guys have probably wondering where I have been. I have been very busy school work and other stuff. I am back and will now continue update this repository. Expect to see an update almost every Wednesday. Don't forget that if you are reading this to star this repository and tell your friends about this. I made this repository because I understand how boring, hard, and stressful school is and most of these bookmarklets are for you guys to have at least a little fun and improve your grades in websites like Edpuzzle and i-Ready. There is now a changelog at the bottom. ;)
+Hi guys, I havent't updated this repository since 2022 and you guys have probably wondering where I have been. I have been very busy school work and other stuff. I am back and will now continue update this repository. Expect to see an update (almost) every week. Don't forget that if you are reading this to star this repository and tell your friends about this. I made this repository because I understand how boring, hard, and stressful school is and most of these bookmarklets are for you guys to have at least a little fun and improve your grades in websites like Edpuzzle and i-Ready. There is now a changelog at the bottom. ;)
 
 
 # Changelog
