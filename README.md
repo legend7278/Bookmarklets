@@ -45,5 +45,5 @@ ________________________________________________________________________________
 1. Added hack that was missing
 2. Changed i-Ready menu creator name from proxyplu to sysplu
 3. Updated Blooket cheat menu to the latest version
-4. Added an unblocked games website that looks like a calculator but when you press a cetain button it takes you to s bunch of unblocked games
+4. Added an unblocked games website that looks like a calculator but when you press a cetain button it takes you to a bunch of unblocked games
 _________________________________________________________________________________________________________
