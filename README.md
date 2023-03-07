@@ -49,3 +49,6 @@ ________________________________________________________________________________
 3/5/23: Added an unblocked games website
 1. Added an unblocked games website that looks like a calculator but when you press a cetain button it takes you to a bunch of unblocked games
 _________________________________________________________________________________________________________
+3/6/23: Updated Cheat menu
+1. Updated i-Ready cheat menu from Nullify 2.0 to Nullify 3.0
+_________________________________________________________________________________________________________
