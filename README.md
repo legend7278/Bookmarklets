@@ -54,5 +54,5 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 3/9/23: News for the i-Ready hack menu
 1. The i-Ready hack menu is now fixed and they updated the bookmark.
-2. Now replaced the message saying it doesn't work a message saying its fixed. (Will remove later)
+2. Now replaced the message saying it doesn't work with a message saying its fixed. (Will remove later)
 _________________________________________________________________________________________________________
