@@ -1,0 +1,1 @@
+javascript:fetch('https://raw.githubusercontent.com/sysplu/Nullify/main/src/main.js').then(r => r.text()).then(r => eval(r))
