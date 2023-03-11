@@ -56,3 +56,6 @@ ________________________________________________________________________________
 1. The i-Ready hack menu is now fixed and they updated the bookmark.
 2. Now replaced the message saying it doesn't work with a message saying its fixed. (Will remove later)
 _________________________________________________________________________________________________________
+3/11/23: i-Ready hack menu update
+1. The i-Ready hack menu bookmark is outdated so I put a new that is going to be auto updated from now on.
+2. Removed the message saying the i-Ready hack menu is fixed
